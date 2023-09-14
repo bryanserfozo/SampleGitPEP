@@ -17,3 +17,7 @@ public class Sample{
 
 }
 ```
+
+```Shell
+cd /app
+```
